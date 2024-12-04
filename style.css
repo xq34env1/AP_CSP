@@ -1,0 +1,20 @@
+#header, #MainPart{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#KenCarsonOutput, #Huzz_3, #Huzz_2, #Huzz_1, #Huzz_0{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 20%;
+}
+
+body{
+    background-color: black;
+    background-repeat: repeat;
+    background-position:top;
+    background-image: url("https://media.tenor.com/0KRT8eUbVPUAAAAM/leobylaw.gif");
+}
