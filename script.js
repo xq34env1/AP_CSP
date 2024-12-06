@@ -38,10 +38,8 @@ function HideEverythingMain(){
 function Submit(){
     inputboxhuzz = document.getElementById("InputHuzz").value;
     if(inputboxhuzz >= 4){
-        var audio = new Audio('clown.mp3');
-        var audio2= new Audio('laughing.mp3')
+        var audio = new Audio('laughing.mp3')
         audio.play();
-        audio2.play();
         HideEverythingMain();
         document.getElementById("KenCarsonOutput").hidden = false;
     }
